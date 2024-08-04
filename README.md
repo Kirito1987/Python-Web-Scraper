@@ -82,7 +82,6 @@ save_to_csv(sorted_data, filename='filtered_sorted_books.csv')
 save_to_sqlite(sorted_data, db_name='filtered_sorted_books.db')
 ```
 
-You can save this markdown file as README.md and export it along with your code.
 
 
 
